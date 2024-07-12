@@ -1,4 +1,4 @@
-# Libro "GUANACASTE" H1
+# Libro "GUANACASTE" 1924 
 
 Este repositorio contiene el mapa digitalizado de Victor Manuel Cabrera Diaz
 Publicado en el Libro "Guanacaste" de 1924.
