@@ -2,7 +2,7 @@ Este repositorio contiene el mapa digitalizado de Victor Manuel Cabrera Diaz
 Publicado en el Libro "Guanacaste" de 1924.
 En conmemoracion del centenario de la incorporacion del Partido de Nicoya a Costa Rica.
 
-
+blob:https://github.com/1058e4b5-7bc8-4ef6-ad14-53a2c1ff3043
 
 ![MAPA ORIGINAL](https://github.com/abcgeomatica/guanacaste1924/blob/326ead36c9acbff712124d3dbc2abc6faaf7264f/MapaGuanacaste1924.png)
 
