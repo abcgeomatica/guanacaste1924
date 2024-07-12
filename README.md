@@ -9,7 +9,7 @@ En conmemoracion del centenario de la incorporacion del Partido de Nicoya a Cost
 
 
 
-MAPA INTERACTIVOr
+MAPA INTERACTIVO
 https://abcgeomatica.github.io/guanacaste1924/
 
 
